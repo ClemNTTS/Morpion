@@ -1,0 +1,16 @@
+C:\Users\pc\C#\Morpion\Morpion\bin\Debug\net8.0-windows\Morpion.exe
+C:\Users\pc\C#\Morpion\Morpion\bin\Debug\net8.0-windows\Morpion.deps.json
+C:\Users\pc\C#\Morpion\Morpion\bin\Debug\net8.0-windows\Morpion.runtimeconfig.json
+C:\Users\pc\C#\Morpion\Morpion\bin\Debug\net8.0-windows\Morpion.dll
+C:\Users\pc\C#\Morpion\Morpion\bin\Debug\net8.0-windows\Morpion.pdb
+C:\Users\pc\C#\Morpion\Morpion\obj\Debug\net8.0-windows\Morpion.MainWindow.resources
+C:\Users\pc\C#\Morpion\Morpion\obj\Debug\net8.0-windows\Morpion.csproj.GenerateResource.cache
+C:\Users\pc\C#\Morpion\Morpion\obj\Debug\net8.0-windows\Morpion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\C#\Morpion\Morpion\obj\Debug\net8.0-windows\Morpion.AssemblyInfoInputs.cache
+C:\Users\pc\C#\Morpion\Morpion\obj\Debug\net8.0-windows\Morpion.AssemblyInfo.cs
+C:\Users\pc\C#\Morpion\Morpion\obj\Debug\net8.0-windows\Morpion.csproj.CoreCompileInputs.cache
+C:\Users\pc\C#\Morpion\Morpion\obj\Debug\net8.0-windows\Morpion.dll
+C:\Users\pc\C#\Morpion\Morpion\obj\Debug\net8.0-windows\refint\Morpion.dll
+C:\Users\pc\C#\Morpion\Morpion\obj\Debug\net8.0-windows\Morpion.pdb
+C:\Users\pc\C#\Morpion\Morpion\obj\Debug\net8.0-windows\Morpion.genruntimeconfig.cache
+C:\Users\pc\C#\Morpion\Morpion\obj\Debug\net8.0-windows\ref\Morpion.dll
