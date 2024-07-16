@@ -1,7 +1,7 @@
 # Morpion / TicTacToe
 _(juste en dessous des badges sympatiques à placer)_
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp/)  [![forthebadge](https://forthebadge.com/images/badges/license-mit.svg)](LICENSE.md)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp/)  [![forthebadge](https://forthebadge.com/images/badges/license-mit.svg)](LICENSE)
 
 A little project in C# and .NET where you could play with a friend or against an IA
 
@@ -65,4 +65,4 @@ You could find many options in the StripMenu :
 * **Clément Nuttens** _alias_ [@ClemNTTS](https://github.com/ClemNTTS)
 
 ## License
-This project is under the ``MIT License`` - loock at the file [LICENSE.md](LICENSE.md) for more informations
+This project is under the ``MIT License`` - loock at the file [LICENSE.md](LICENSE) for more informations
