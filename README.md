@@ -1,5 +1,4 @@
 # Morpion / TicTacToe
-_(juste en dessous des badges sympatiques à placer)_
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp/)  [![forthebadge](https://forthebadge.com/images/badges/license-mit.svg)](LICENSE)
 
