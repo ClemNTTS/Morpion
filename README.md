@@ -1,13 +1,13 @@
 # Morpion / TicTacToe
 _(juste en dessous des badges sympatiques à placer)_
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp/)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp/)  [![forthebadge](https://forthebadge.com/images/badges/license-mit.svg)](LICENSE.md)
 
 A little project in C# and .NET where you could play with a friend or against an IA
 
-## To start | Build the executable
+# To start | Build the executable
 
-# Using Visual Studio
+## Using Visual Studio
 Open Your Project in Visual Studio:
 
 - Launch Visual Studio.
@@ -25,7 +25,7 @@ Click on Build in the menu bar and select Build Solution or press Ctrl+Shift+B.
 Once the build is successful, you can find the .exe file in the bin\Debug\net5.0 (or net6.0, etc., depending on your target framework) directory of your project.
 
 
-# Using the .NET CLI
+## Using the .NET CLI
 - Open Command Prompt or Terminal:
 - Navigate to Your Project Directory:
 Use the cd command to navigate to the directory containing your .csproj file.
