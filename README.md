@@ -2,7 +2,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp/)  [![forthebadge](https://forthebadge.com/images/badges/license-mit.svg)](LICENSE)
 
-A little project in C# and .NET where you could play with a friend or against an IA
+A little project in C# and .NET where you could play TicTacToe with a friend or against an IA
 
 # To start | Build the executable
 
